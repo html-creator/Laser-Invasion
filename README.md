@@ -2,7 +2,7 @@
 ## A game with lasers!!
 
 # to play:
-- install python with pip
+- install python and pip
 
 - in command prompt type pip install pygame
 
